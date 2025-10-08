@@ -5,7 +5,7 @@ body {
   align-items: center;
   background: rgb(50, 42, 45);
   color: white;
-  font-family: sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .main {
@@ -48,5 +48,5 @@ input {
   border: 2px solid rgb(255, 159, 159);
   margin-top: 10px;
   cursor: pointer;
-  
+  border-radius: 5px;
 }
